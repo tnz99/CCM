@@ -17,8 +17,8 @@
 
         <div class="d-flex align-items-center justify-content-between mt-145">
             <ul class="d-flex align-items-center justify-content-between list-none">
-                <li><a href="laws" class="no-underline circle-xm d-flex justify-content-center align-items-center mr-10 border-0">1</a></li>
-                <li><a href="the-laws-1" class="no-underline circle-xm d-flex justify-content-center align-items-center border-0">2</a></li>
+                <li><a href="the-laws.html" class="no-underline circle-xm d-flex justify-content-center align-items-center mr-10 border-0">1</a></li>
+                <li><a href="the-laws-1.html" class="no-underline circle-xm d-flex justify-content-center align-items-center border-0">2</a></li>
             </ul>
 
             <div class="d-flex align-items-center">

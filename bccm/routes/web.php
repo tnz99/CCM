@@ -59,7 +59,7 @@ Route::get('/the-laws-1', function() {
     return view('laws_1');
 });
 
-Route::get('/laws', function() {
+Route::get('/the-laws', function() {
     return view('laws');
 });
 
