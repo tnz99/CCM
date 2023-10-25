@@ -1,4 +1,6 @@
-<?php $__env->startSection('content'); ?>
+@extends('components.layout')
+
+@section('content')
 <section class="d-flex" style="justify-content: center; gap: 12%; margin-top: 12%;">
     <div class="">
         <div class="d-flex flex-column" style="justify-content: center; align-items: center;">
@@ -27,6 +29,4 @@
         </div>
     </div>
 </section>
-<?php $__env->stopSection(); ?>
-
-<?php echo $__env->make('components.layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /var/www/html/resources/views/contact.blade.php ENDPATH**/ ?>
+@endsection

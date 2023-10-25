@@ -1,4 +1,6 @@
-<?php $__env->startSection('content'); ?>
+@extends('components.layout')
+
+@section('content')
 <section class="d-flex text-white">
     <div class="d-flex flex-column ">
         <div class="text-white ml-139 mt-148" style="width: 35vw; padding-right: 12%;">
@@ -22,6 +24,4 @@
         </div>
     </div>
 </section>
-<?php $__env->stopSection(); ?>
-
-<?php echo $__env->make('components.layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /var/www/html/resources/views/news.blade.php ENDPATH**/ ?>
+@endsection

@@ -1,4 +1,3 @@
-<?php $__env->startSection('body_class', 'the-kingdom'); ?>
 <?php $__env->startSection('content'); ?>
 <section class="ml-146 mt-145 d-flex justify-content-between ">
 <div>
